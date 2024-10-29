@@ -8,3 +8,6 @@ class SumtwoApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
